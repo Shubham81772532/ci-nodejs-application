@@ -27,5 +27,5 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Deployment completed
         run: echo "Deployment completed successfully"
-      # - name: start the node services
+      # - nametart the node services
       #   run: |
